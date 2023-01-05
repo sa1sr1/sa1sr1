@@ -8,4 +8,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sa1sr1&show_icons=true&locale=en" alt="sa1sr1" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sa1sr1&langs_count=5&include_all_commits=true&count_private=true&theme=dark&layout=compact)](https://github.com/sa1sr1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sa1sr1&langs_count=7&include_all_commits=true&count_private=true&theme=dark&layout=compact)](https://github.com/sa1sr1)
