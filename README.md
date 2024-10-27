@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sawan</h1>
 <h3 align="left">Connect with me:</h3>
-<p>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sawan-s)</p>
-<p align="left">
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/sawan-s)<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
