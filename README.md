@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sawan</h1>
 <h3 align="left">Connect with me:</h3>
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/sawan-s)<p align="left">
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sawan-s" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
