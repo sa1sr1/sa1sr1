@@ -2,7 +2,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sawan-s" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/sawan-s" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin" width="40" height="40"/>
   </a>
 </p>
