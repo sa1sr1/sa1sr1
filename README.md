@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sawan</h1>
-<h2 alignn ="left">I'm currently a student at UC Berkeley studying Data Science!</h2>
+<h2 alignn ="center">I'm currently a student at UC Berkeley studying Data Science!</h2>
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
